@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshudixit1701&label=Profile%20views&color=0e75b6&style=flat" alt="himanshudixit1701" /> </p>
 
-- 🔭 I am currently learning **web development**
+- 🔭 I am currently learning **Web development & C++**
 
 
 <h3 align="left">Connect with me:</h3>
